@@ -1,0 +1,20 @@
+.search-box span {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.search-box__input {
+  appearance: none;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #444;
+}
+
+.search-box__input::placeholder {
+  color: #aaa;
+}

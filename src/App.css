@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.header {
+  padding: 3rem 0;
+}
